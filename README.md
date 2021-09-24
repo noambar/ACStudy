@@ -4,7 +4,7 @@ This directory holds the source code needed for replicating the results that are
 
 Talmor-Barkan Y and Bar N. et al. A multi-omic characterization reveals personalized risk factors for coronary artery disease. DOI: XXX
 
-Files:
+## Files:
 - README.md - this file.
 - helper_functions.py - includes python helper functions which are used in other notebooks.
 - preprocess_metabolon_data.ipynb - preprocessing raw metabolon data, perform normalizations, batch correction and adjustment for storage times.
@@ -22,3 +22,9 @@ Files:
 - metabolomics_model_of_bmi.ipynb - the analysis of the metabolomics-based model of BMI. Results are included in figure 4. Creates figure 4. Creates extended data figure 5.
 - metacardis_bmi_prediction.ipynb - the analysis of the metabolomics-based model of BMI in the MetaCardis cohort. Results are included in extended data figure 6. Creates extended data figure 6.
 - metacardis_SHAP.ipynb - the SHAP analysis in the metabolomics-based model of BMI in the MetaCardis cohort.
+
+## Data:
+- The raw metagenomic sequencing data per sample of our controls are available from the European Nucleotide Archive (ENA; https://www.ebi.ac.uk/ena): PRJEB11532. 
+- The raw metabolomics data and phenotypes per sample of our controls are available from the European Genome-phenome Archive (EGA; https://ega-archive.org/): EGAS00001004512. 
+- The raw metabolomics data and full clinical phenotypes for our cohort of individuals with ACS were deposited to the EGA: EGAS00001005342, and will be released upon publication.
+- Additional data regarding SGB 4712, including the genome sequence, gene annotation, and closest references are available at https://github.com/noambar/ACStudy/tree/master/SGB_4712.
