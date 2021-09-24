@@ -6,5 +6,6 @@ Talmor-Barkan Y and Bar N. et al. A multi-omic characterization reveals personal
 
 Files:
 
-preprocess_metabolon_data.ipynb - preprocessing raw metabolon data, perform normalizations, batch correction and adjustment for storage times.
+- helper_functions.py - includes python helper functions which are used in other notebooks.
+- preprocess_metabolon_data.ipynb - preprocessing raw metabolon data, perform normalizations, batch correction and adjustment for storage times.
 
