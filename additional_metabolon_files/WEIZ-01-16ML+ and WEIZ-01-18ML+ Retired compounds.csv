@@ -1,0 +1,100 @@
+CHEMICAL_ID,BIOCHEMICAL,SUPER_PATHWAY,SUB_PATHWAY
+X - 01911,glucuronide of piperine metabolite C17H21NO3 (4)*,Xenobiotics,Food Component/Plant
+X - 11261,"cis-3,4-methyleneheptanoyl carnitine",Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)"
+X - 11441,"bilirubin degradation product, C17H20N2O5 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 11442,"bilirubin degradation product, C17H20N2O5 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 11491,deoxycholic acid glucuronide,Lipid,Secondary Bile Acid Metabolism
+X - 11522,"bilirubin degradation product, C17H18N2O4 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 11530,"bilirubin degradation product, C17H18N2O4 (3)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 12063,metabolonic lactone sulfate,Partially Characterized Molecules,Partially Characterized Molecules
+X - 12206,ascorbic acid 3-sulfate*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+X - 12212,4-allylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+X - 12230,4-ethylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+X - 12329,3-hydroxy-2-methylpyridine sulfate,Xenobiotics,Chemical
+X - 12472,glutamine conjugate of C6H10O2 (2)*,Partially Characterized Molecules,Partially Characterized Molecules
+X - 12524,"2,4-di-tert-butylphenol",Xenobiotics,Chemical
+X - 12739,glutamine conjugate of C6H10O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules
+X - 12846,11beta-hydroxyandrosterone glucuronide,Lipid,Androgenic Steroids
+X - 13435,3-decenoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+X - 13737,(S)-a-Amino-omega-caprolactam,Xenobiotics,Food Component/Plant
+X - 13835,1-methyl-5-imidazolelactate,Amino Acid,Histidine Metabolism
+X - 14626,taurodeoxycholic acid 3-sulfate,Lipid,Secondary Bile Acid Metabolism
+X - 14658,taurochenodeoxycholic acid 3-sulfate,Lipid,Secondary Bile Acid Metabolism
+X - 14662,glycoursodeoxycholate sulfate (1),Lipid,Secondary Bile Acid Metabolism
+X - 14838,1-methyl-5-imidazoleacetate,Amino Acid,Histidine Metabolism
+X - 15469,3-hydroxyoctanoylcarnitine (1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+X - 15492,tetrahydrocortisol glucuronide,Lipid,Corticosteroids
+X - 15497,1-carboxyethylphenylalanine,Amino Acid,Phenylalanine Metabolism
+X - 15666,oxindolylalanine,Amino Acid,Tryptophan Metabolism
+X - 16071,3-formylindole,Xenobiotics,Food Component/Plant
+X - 16123,Fibrinopeptide A (4-15)**,Peptide,Fibrinogen Cleavage Peptide
+X - 16132,Fibrinopeptide B (1-9)**,Peptide,Fibrinogen Cleavage Peptide
+X - 16134,Fibrinopeptide A (5-16)*,Peptide,Fibrinogen Cleavage Peptide
+X - 16135,Fibrinopeptide A (7-16)*,Peptide,Fibrinogen Cleavage Peptide
+X - 16480,octadecadienedioate (C18:2-DC),Lipid,"Fatty Acid, Dicarboxylate"
+X - 16570,"cis-3,4-methyleneheptanoyl glycine",Lipid,Fatty Acid Metabolism (Acyl Glycine)
+X - 16654,deoxycholic acid 12-sulfate*,Lipid,Secondary Bile Acid Metabolism
+X - 16944,"cis-3,4-methyleneheptanoate",Lipid,"Fatty Acid, Branched"
+X - 16946,"bilirubin degradation product, C16H18N2O5 (2)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 17145,branched chain 14:0 dicarboxylic acid**,Lipid,"Fatty Acid, Dicarboxylate"
+X - 17166,Fibrinopeptide A (2-15)**,Peptide,Fibrinogen Cleavage Peptide
+X - 17167,Fibrinopeptide A (3-16)**,Peptide,Fibrinogen Cleavage Peptide
+X - 17178,Fibrinopeptide B (1-12)**,Peptide,Fibrinogen Cleavage Peptide
+X - 17179,Fibrinopeptide A (3-15)**,Peptide,Fibrinogen Cleavage Peptide
+X - 17185,4-vinylcatechol sulfate,Xenobiotics,Benzoate Metabolism
+X - 17189,Fibrinopeptide B (1-11)**,Peptide,Fibrinogen Cleavage Peptide
+X - 17299,"N,N,N-trimethyl-alanylproline betaine (TMAP)",Xenobiotics,Benzoate Metabolism
+X - 17327,glutamine of C7H12O2*,Partially Characterized Molecules,Partially Characterized Molecules
+X - 17337,undecenoylcarnitine (C11:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)"
+X - 17340,tetrahydrocortisone glucuronide (5),Lipid,Corticosteroids
+X - 17359,cortolone glucuronide (1),Lipid,Corticosteroids
+X - 17677,maltol sulfate,Xenobiotics,Food Component/Plant
+X - 18249,"3,5-dichloro-2,6-dihydroxybenzoic acid",Xenobiotics,Chemical
+X - 18914,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*",Xenobiotics,Chemical
+X - 21295,2-methoxyhydroquinone sulfate (1),Xenobiotics,Benzoate Metabolism
+X - 21411,2-ketocaprylate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism"
+X - 21448,"bilirubin degradation product, C16H18N2O5 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 21729,butyrate/isobutyrate (4:0),Lipid,Short Chain Fatty Acid
+X - 21785,2-O-methylascorbic acid,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism
+X - 21792,decadienedioic acid (C10:2-DC)**,Lipid,"Fatty Acid, Dicarboxylate"
+X - 22519,3-hydroxyoctanoylcarnitine (2),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
+X - 22764,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*",Partially Characterized Molecules,Partially Characterized Molecules
+X - 22775,4-chlorobenzoic acid,Xenobiotics,Chemical
+X - 23196,2-hydroxysebacate,Lipid,"Fatty Acid, Dicarboxylate"
+X - 23294,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (2)*",Partially Characterized Molecules,Partially Characterized Molecules
+X - 23295,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",Partially Characterized Molecules,Partially Characterized Molecules
+X - 23297,(2 or 3)-decenoate (10:1n8 or n7),Lipid,Medium Chain Fatty Acid
+X - 23314,ethyl-beta-glucopyranoside,Xenobiotics,Food Component/Plant
+X - 23369,3-indoleglyoxylic acid,Xenobiotics,Food Component/Plant
+X - 23585,"N,N-dimethylalanine",Amino Acid,Alanine and Aspartate Metabolism
+X - 23590,N-acetyl-L-2-aminoadipic acid,Amino Acid,Lysine Metabolism
+X - 23649,3-hydroxypyridine glucuronide,Xenobiotics,Chemical
+X - 23729,5-hydroxypicolinic acid,Amino Acid,Tryptophan Metabolism
+X - 24293,ethyl alpha-glucopyranoside*,Xenobiotics,Food Component/Plant
+X - 24348,GlcNAc sulfate conjugate of C21H34O2 steroid**,Partially Characterized Molecules,Partially Characterized Molecules
+X - 24498,4-vinylguaiacol glucuronide,Xenobiotics,Food Component/Plant
+X - 24513,hydroxyasparagine**,Amino Acid,Alanine and Aspartate Metabolism
+X - 24527,glutamine conjugate of C6H10O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules
+X - 24542,vanillic acid glycine,Xenobiotics,Food Component/Plant
+X - 24550,"PEG-glycoside, fragment 07*",Xenobiotics,Chemical
+X - 24551,"PEG-glucuronide, fragment 04*",Xenobiotics,Chemical
+X - 24552,"PEG-glycoside, fragment 05*",Xenobiotics,Chemical
+X - 24554,"PEG-glucuronide, fragment 07*",Xenobiotics,Chemical
+X - 24555,"PEG-glycoside, fragment 04*",Xenobiotics,Chemical
+X - 24557,"PEG-glucuronide, fragment 06*",Xenobiotics,Chemical
+X - 24558,"PEG-glycoside, fragment 06*",Xenobiotics,Chemical
+X - 24560,"PEG-glycoside, fragment 08*",Xenobiotics,Chemical
+X - 24655,genistein sulfate,Xenobiotics,Food Component/Plant
+X - 24693,histidine betaine (hercynine)*,Xenobiotics,Food Component/Plant
+X - 24699,"N,N-dimethyl-pro-pro",Peptide,Modified Peptides
+X - 24706,daidzein glucuronide*,Xenobiotics,Food Component/Plant
+X - 24738,3-hydroxystachydrine*,Xenobiotics,Food Component/Plant
+X - 24766,3-amino-2-piperidone,Amino Acid,Urea cycle; Arginine and Proline Metabolism
+X - 24809,"N2-acetyl,N6,N6-dimethyllysine",Amino Acid,Lysine Metabolism
+X - 24845,2-naphthol sulfate,Xenobiotics,Chemical
+X - 24849,"bilirubin degradation product, C17H18N2O4 (1)**",Partially Characterized Molecules,Partially Characterized Molecules
+X - 24870,hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,Lipid,Sphingomyelins
+X - 24948,pregnenetriol sulfate*,Lipid,Pregnenolone Steroids
+X - 24969,cysteinylglycine disulfide*,Amino Acid,Glutathione Metabolism
+X - 24983,"N(6),N(6)-dimethyllysine",Amino Acid,Lysine Metabolism
+X - 25463,3-hydroxydecanoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Hydroxy)"
