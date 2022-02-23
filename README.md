@@ -2,7 +2,7 @@
 
 This directory holds the source code needed for replicating the results that are reported in:
 
-Talmor-Barkan Y and Bar N. et al. A multi-omic characterization reveals personalized risk factors for coronary artery disease. DOI: XXX
+Talmor-Barkan Y and Bar N. et al. Metabolomic and microbiome profiling reveals personalized risk factors for coronary artery disease. DOI: https://doi.org/10.1038/s41591-022-01686-6
 
 ## Files:
 - README.md - this file.
